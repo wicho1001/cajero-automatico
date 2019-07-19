@@ -1,0 +1,11 @@
+/home/wicho/sandbox/cajero-automatico/obj/Debug/netcoreapp2.2/cajero-automatico.csprojAssemblyReference.cache
+/home/wicho/sandbox/cajero-automatico/obj/Debug/netcoreapp2.2/cajero-automatico.csproj.CoreCompileInputs.cache
+/home/wicho/sandbox/cajero-automatico/obj/Debug/netcoreapp2.2/cajero-automatico.AssemblyInfoInputs.cache
+/home/wicho/sandbox/cajero-automatico/obj/Debug/netcoreapp2.2/cajero-automatico.AssemblyInfo.cs
+/home/wicho/sandbox/cajero-automatico/bin/Debug/netcoreapp2.2/cajero-automatico.deps.json
+/home/wicho/sandbox/cajero-automatico/bin/Debug/netcoreapp2.2/cajero-automatico.runtimeconfig.json
+/home/wicho/sandbox/cajero-automatico/bin/Debug/netcoreapp2.2/cajero-automatico.runtimeconfig.dev.json
+/home/wicho/sandbox/cajero-automatico/bin/Debug/netcoreapp2.2/cajero-automatico.dll
+/home/wicho/sandbox/cajero-automatico/bin/Debug/netcoreapp2.2/cajero-automatico.pdb
+/home/wicho/sandbox/cajero-automatico/obj/Debug/netcoreapp2.2/cajero-automatico.dll
+/home/wicho/sandbox/cajero-automatico/obj/Debug/netcoreapp2.2/cajero-automatico.pdb
