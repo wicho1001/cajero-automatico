@@ -14,8 +14,11 @@ namespace cajero_automatico
             Console.WriteLine("Hello World desde billetes!"); 
             Console.WriteLine("Esta es la cantidad {0}", cantidad);
             Console.WriteLine(BilletesDeCien[0]);
-            // Lo que estoy pensando aqui es el 
         }
+            // Lo que estoy pensando aqui es hacer el void para la asignacion de los billetes hacia la cantidad haciendo operaciones 
+            // sobre la cantidad y que me vaya eliminando elementos de mi array a traves de un pop
+
+            // Como pensaba hacerlo era a traves de condicionantes if else if else pero siento que se hara muy extenso el codigo
         static void Main(string[] args)
         {
             string cantidad = "";
