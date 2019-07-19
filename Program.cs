@@ -14,6 +14,7 @@ namespace cajero_automatico
             Console.WriteLine("Hello World desde billetes!"); 
             Console.WriteLine("Esta es la cantidad {0}", cantidad);
             Console.WriteLine(BilletesDeCien[0]);
+            // Lo que estoy pensando aqui es el 
         }
         static void Main(string[] args)
         {
