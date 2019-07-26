@@ -5,7 +5,7 @@ namespace cajero_automatico
 {
     class Program
     {
-        static void Billetes(string cantidad)
+        public static void asignacionBilletes()
         {
             Stack<int> BilletesDeCien = new Stack<int>();
             Stack<int> BilletesDeDoscientos = new Stack<int>();
@@ -17,7 +17,10 @@ namespace cajero_automatico
                 BilletesDeDoscientos.Push(200);
                 BilletesDeQuinientos.Push(500);
                 BilletesDeMil.Push(1000);
-            }
+            }   
+        }
+        static void Billetes(string cantidad)
+        {
             Console.WriteLine("Hello World desde billetes!"); 
             Console.WriteLine("Esta es la cantidad {0}", cantidad);
             int cantidadInt;
@@ -49,10 +52,6 @@ namespace cajero_automatico
                 Main();
             }
         }
-            // Lo que estoy pensando aqui es hacer el void para la asignacion de los billetes hacia la cantidad haciendo operaciones 
-            // sobre la cantidad y que me vaya eliminando elementos de mi array a traves de un pop
-
-            // Como pensaba hacerlo era a traves de condicionantes if else if else pero siento que se hara muy extenso el codigo
         static void Main()
         {
             string cantidad = "";
